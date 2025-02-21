@@ -281,7 +281,7 @@ def main():
         )
         #st.write("Enrichment and trends insights")
         image1= "bubble_plot_Panc_new2.png"
-        image2= "bwi_pac_new.tif"
+        image2= "bwi_pac_new.jpg"
         col1, col2 = st.columns(2)
 
 # Display the images in their respective columns
@@ -402,7 +402,7 @@ def main():
         #st.write("write something")
         #st.write("Enrichment and trends insights")
         image5= "bubble_plot_kidney_new2.png"
-        image6= "bwi_kid_new.tif"
+        image6= "bwi_kid_new.jpg"
         col1, col2 = st.columns(2)
 
 # Display the images in their respective columns
