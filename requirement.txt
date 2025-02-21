@@ -1,1 +1,1 @@
-pip install st-aggrid
+st-aggrid
