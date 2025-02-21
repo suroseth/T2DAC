@@ -1,0 +1,85 @@
+﻿Gene,Gene Name,Tissue,Study type,Direction of regulation,Fold change ,Samples,PMID,Cancer Type
+ALDH1A1,aldehyde dehydrogenase 1 family member A1,Endometrium,MALDI TOF,down,−1.91,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+ANXA5,annexin A5,Endometrium,MALDI TOF,up,2.81,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+CALR,calreticulin,Endometrium,MALDI TOF,up,2.24,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+HSP90B1,heat shock protein 90 beta family member 1,Endometrium,MALDI TOF,up,2.86,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+IFT88,intraflagellar transport 88,Endometrium,MALDI TOF,down,−2.05,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+MYL9,myosin light chain 9,Endometrium,MALDI TOF,down,−2.47,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+PRDX1,peroxiredoxin 1,Endometrium,MALDI TOF,up,2.87,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+RDH12,retinol dehydrogenase 12,Endometrium,MALDI TOF,down,−2.1,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+SOD1,superoxide dismutase 1,Endometrium,MALDI TOF,down,−1.92,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+TF,transferrin,Endometrium,MALDI TOF,up,2.14,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+VCL,vinculin,Endometrium,MALDI TOF,up,2.86,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+WWC3,WWC family member 3,Endometrium,MALDI TOF,down,−2.1,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
+HSPA1A,Heat Shock Protein Family A (Hsp70) Member 1A,blood,quantitative sandwich ELISA immunoassay,up,T2DM-EC (27.23 ± 11.41) VS. EC (17.08 ± 7.78) (p < .05),"18 T2DM-EC, 19 EC, 29 DM, 22 healthy ",31392909,Endometrial cancer
+GAS5,growth arrest specific 5,Endometrium,RT-PCR,down,p<0.05 (T2DM-EC vs. EC),15 T2DM-EC vs 15 EC,31105847,Endometrial cancer
+INS,insulin,blood,NA,up,"HR: 2.39, 95% CI: 1.32-4.33, Ptrend=0.008",156 EC,29438162,Endometrial cancer
+L1CAM,L1 cell adhesion molecule,Endometrium,immunohistochemistry,up,P = 0.006,34 T2DM-EC vs 34 EC,25337593,Endometrial cancer
+ACADM,Acyl-CoA Dehydrogenase Medium Chain,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+ADIPOQ,Adiponectin,mouse plasma ,ELISA kit,up,P < 0.001,"normoglycemic (N; n = 6), diabetic (D; n = 9)",25710927,Kindey cancer
+AKT1,AKT Serine/Threonine Kinase 1,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+MLXIPL,MLX Interacting Protein Like,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+GCK,Glucokinase,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+SLC2A1,Solute Carrier Family 2 Member 1,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+SLC2A2,Solute Carrier Family 2 Member 2,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+SLC2A4,Solute Carrier Family 2 Member 4,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+GSK3B,Glycogen Synthase Kinase 3 Beta,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+INSR,Insulin Receptor,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+MTOR,Mechanistic Target Of Rapamycin Kinase,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+PFKL,"Phosphofructokinase, Liver Type",mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+PKM,Pyruvate Kinase M1/2,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+SREBF1,Sterol Regulatory Element Binding Transcription Factor 1,mouse renal tissue,Immunohistochemistry,up,na,11 mouse,25948777,Kindey cancer
+AFP,alpha fetoprotein(AFP),blood,data collected from clinical health record,up,"25.71 vs. 73.18 μg/L, P < 0.001",HCC+DM (230) vs HCC+NDM (271),30009939,Liver cancer
+AGER,advanced glycosylation end-product specific receptor(AGER),mouse tissue,Western blotting,up,p < 0.05,5,26825459,Liver cancer
+AKR1B1,Aldo-Keto Reductase Family 1 Member B ,"blood, liver",ELISA,up,p<0.001,HCC-DM vs control,"36444594, 38283757",Liver cancer
+CCND1,Cyclin D1,human liver,knockout mouse model,down,NA,"WT, n=5; LKO, n=7","32606000, 26135564",Liver cancer
+CTNNB1,catenin beta 1(CTNNB1),mouse liver,qRT-PCR,up,2 FC p<0.05,3,"26135564, 27272409",Liver cancer
+DNASE1L3,Deoxyribonuclease 1L3,mouse liver,knockout mouse model,down,NA,NA,35474906,Liver cancer
+DPYSL3,dihydropyrimidinase like 3(DPYSL3),human liver,Immunohistochemical analysis ,down,P<0.01,"HCC-DM, 47 and HCC-non-DM, 46).",31980687,Liver cancer
+ERN1,Endoplasmic Reticulum To Nucleus Signaling 1,mouse liver,knockout mouse model,down,NA,12 myeloid IRE1α-KO and 11 WT male mice,32243868,Liver cancer
+ERP29,endoplasmic reticulum protein 29(ERP29),human liver,Immunohistochemical analysis,down,p<0.05,patients (n = 7) with diabetes and HCC patients without diabetes (n = 14),31251997,Liver cancer
+FGF19,fibroblast growth factor 19(FGF19),blood,enzyme-linked immunosorbent assay (ELISA),up,p<0.001,27 control vs 10 T2DM-HCC ,32104677,Liver cancer
+FGF21,fibroblast growth factor 21(FGF21),mouse liver,Immunohistochemical analysis,down,P<0.05,NA,27293995,Liver cancer
+GABBR2,gamma-aminobutyric acid type B receptor subunit 2(GABBR2),tissue,immunohistochemistry,up,P < 0.01,DM-HCC(15) vs HCC(15),37576707,Liver cancer
+GJC1,gap junction protein gamma 1(GJC1),human liver,Immunohistochemical analysis,UP,P<0.01,NA,30078215,Liver cancer
+INS,insulin,blood,ELISA,up,p<0.05,HCC-DM vs control,36444594,Liver cancer
+IQGAP2,IQ Motif Containing GTPase Activating Protein 2,mouse liver,knockout mouse model,up,NA,Iqgap2 -/- (n=5) vs control (n=5),25254002,Liver cancer
+MYC,"MYC proto-oncogene, bHLH transcription factor(MYC)",mouse liver,qRT-PCR,up,2 FC p<0.05,3,"26135564, 27272409",Liver cancer
+NCOA5,nuclear receptor coactivator 5(NCOA5),liver,qRT-PCR,down,3 out 4 samples ,4 T2DM-LC,"24332041, 25019069, 28137631",Liver cancer
+STAT3,signal transducer and activator of transcription 3(STAT3),HUMAN LIVER,Immunohistochemical analysis,UP,P<0.05,T2DM-LC 9 vs LC 11,26743134,Liver cancer
+AGER,Advanced Glycosylation End-Product Specific Receptor,pancreas,Immunohistochemistry,Up,In vivo,In vivo,29533466,Pancreatic cancer
+LEP,Leptin,blood,competitive radioimmunoanalysis method,Down,6.16 (ug/L) [SD T2DM-PaC] – 10.23 (ug/L)[SD T2DM] p-value<0.01,76/39,"28027898, 34990893, 21067267",Pancreatic cancer
+CEACAM5,CEA cell adhesion molecule 5,blood,competitive radioimmunoanalysis method,UP,6.06 (ug/L) [SD T2DM-PaC] – 1.74 (ug/L)[SD T2DM] p-value<0.01,76/39,"28027898, 20174821",Pancreatic cancer
+PPY,pancreatic polypeptide,blood,competitive radioimmunoanalysis method,Down,39.8 (ng/L) [SD T2DM-PaC] – 89.1 (ng/L) [SD T2DM] p-value<0.001,76/39,"28027898, 36404274",Pancreatic cancer
+INS,insulin,blood,competitive radioimmunoanalysis method,Down,331 (ng/L) [SD T2DM-PaC] – 501 (ng/L)[SD T2DM] p-value<0.01,76/39,"28027898, 34990893, 19571666",Pancreatic cancer
+GIP,Gastric Inhibitory Polypeptide,blood,competitive radioimmunoanalysis method,Down,14.1 (ng/L) [SD T2DM-PaC] – 39.8 (ng/L)[SD T2DM] p-value<0.001,76/39,"28027898, 34990893",Pancreatic cancer
+SOX7,SRY-box transcription factor 7,pancreas,Immunohistochemistry(in vivo),Down,"SOX7 is significantly negative with diabetes history in the subtype of tumor size < 5 cm and pathological grades I-II (r2=-0.405, P=0.014). ",97,31966461,Pancreatic cancer
+ANGPTL8,Angiopoietin Like 8,"blood, pancrease",Enzyme Linked Immunosorbent Assay (ELISA) ,UP,1205.79 (pg/mL) [SD T2DM-PaC] – 702.51 (pg/mL)[SD T2DM] p-value<0.05,66,27276680,Pancreatic cancer
+COL6A1,collagen type VI alpha 1 chain,pancreas,Immunohistochemistry(clinical sample and in vivo),up,pvalue = 0.01,60,33603474,Pancreatic cancer
+MMP9,matrix metallopeptidase 9,"blood, pancrease",RT-PCR,UP,1.27(OR)  [T2DM-PaC vs T2DM] p-value<0.025,60,26923392,Pancreatic cancer
+DPP4,Dipeptidyl Peptidase 4,"blood, pancrease",Enzyme Linked Immunosorbent Assay (ELISA) ,UP,851.6 (ng/mL) [mean T2DM-PaC] – 1338.8 (ng/mL)[mean T2DM] p-value<0.05,59,27320722,Pancreatic cancer
+ADIPOQ,Adiponectin,blood,mass spectrometry- and immunoassay-based methodologies,UP,p-value =0.001[T2DM-PaC vs T2DM],41,"34990893, 21067267",Pancreatic cancer
+IL1RN,Interleukin 1 Receptor Antagonist,blood,Luminex assays,UP,p-value = 0.03 [T2DM-PaC vs T2DM],41,34990893,Pancreatic cancer
+ADM,Adrenomedullin,"blood, pancrease", immunoradiometric assay ,UP,p-value =0.001[T2DM-PaC vs T2DM],30,"22960655, 34990893",Pancreatic cancer
+PMS2,Mismatch Repair System Component,pancreas,Immunohistochemistry(clinical sample and in vivo),down,p<0.05,29,36453157,Pancreatic cancer
+TNFRSF11B,TNF receptor superfamily member 11b,"blood, pancrease",enzymelinked immunosorbent assay (ELISA) ,UP,p-value=0.05[T2DM-PaC vs T2DM],27,25641178,Pancreatic cancer
+THBS1,thrombospondin 1,blood,iTRAQ/ y Western blot analysis,Down,p-value=0.01[T2DM-PaC vs T2DM],27,26573598,Pancreatic cancer
+HIF1A,hypoxia inducible factor 1 subunit alpha,pancreas,Immunohistochemistry,Up,pvalue<0.05,18,30455857,Pancreatic cancer
+VNN1,vanin 1,"blood, pancrease",RT-PCR,UP,FC >= 3.0 [T2DM-PaC vs healthy control] p-value<0.05,18,"26845448, 20571492",Pancreatic cancer
+S100A8,S100 Calcium Binding Protein A8,"blood, pancrease",SDS–PAGE,UP,p-value < 0.05 [T2DM-PaC vs PaC],17,20717964,Pancreatic cancer
+ANGPTL2,angiopoietin like 2,blood, ANGPTL2 enzyme-linked immunosorbent assay kit,UP,p-value =0.003[T2DM-PaC vs T2DM],13,"30588259, 34990893",Pancreatic cancer
+YY1AP1,YY1 associated protein 1,pancreas,immunofluorescence,Up,P < 0.001,12,32778157,Pancreatic cancer
+REG1A,regenerating family member 1 alpha,pancreas,Immunohistochemistry(clinical sample and in vivo),up,p<0.05,7,20099282,Pancreatic cancer
+VIM,vimentin,pancreas,Immunohistochemistry,Up,p<0.05,6,27433288,Pancreatic cancer
+SNAI1,snail family transcriptional repressor 1,pancreas,Immunohistochemistry,Up,p<0.05,6,27433288,Pancreatic cancer
+CDH2,cadherin 2,pancreas,Immunohistochemistry,Up,p<0.05,6,27433288,Pancreatic cancer
+CDH1,cadherin 1,pancreas,Immunohistochemistry,Down,p<0.05,6,27433288,Pancreatic cancer
+PRKAA2,Protein Kinase AMP-Activated Catalytic Subunit Alpha 2,pancreas,Immunohistochemistry( in vivo),DOWN,NA,5,31088566,Pancreatic cancer
+MICB,MHC Class I Polypeptide-Related Sequence B ,pancreas,Immunohistochemistry( in vivo),DOWN,NA,5,31088566,Pancreatic cancer
+GATA2,GATA Binding Protein 2,pancreas,Immunohistochemistry( in vivo),UP,NA,5,31088566,Pancreatic cancer
+BMI1,"BMI1 Proto-Oncogene, Polycomb Ring Finger",pancreas,Immunohistochemistry( in vivo),UP,NA,5,31088566,Pancreatic cancer
+TAGLN2,Transgelin-2,pancreas,Immunohistochemistry(clinical sample),Up,P= 0.001,41,28521289,Pancreatic cancer
+SOD2,superoxide dismutase 2,pancreas,Immunohistochemistry(clinical sample and in vivo),Up,P < 0.05 as compared with euglycemia group,12,26439801,Pancreatic cancer
+TXNIP,Thioredoxin Interacting Protein,pancreas,Immunohistochemistry(clinical sample),Up,na,,24720336,Pancreatic cancer
+PTRH1,Peptidyl-TRNA Hydrolase 1 Homolog ,pancreas,RT-PCR,down,p value = 0.064,7,37434177,Pancreatic cancer
+CTNNB1,Catenin Beta 1,pancreas,immunohistochemistry,up,P < 0.001,65,37246239,Pancreatic cancer
