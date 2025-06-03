@@ -26,7 +26,7 @@ st.markdown(hide_menu_style, unsafe_allow_html=True)
 #def icon(icon_name):
     #st.markdown(f'<i class="material-icons">{icon_name}</i>', unsafe_allow_html=True)
     
-banner_text = "T2DAC - Type 2 Diabetes Associated Cancer"
+banner_text = "T2DAC - Type 2 Diabetes Associated Cancers"
 banner_color = "#800080"  # Dodger blue background
 text_color = "#FFFFFF"  # White text
 font_size = "40px"  # Font size
