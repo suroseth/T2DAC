@@ -488,7 +488,7 @@ def main():
         #st.header("Dr. S. Ramachandran (ramuigib@gmail.com")
         #st.header("Surabhi Seth (surabhismo@gmail.com)")
         st.markdown('<div style="text-align: center;font-size: 12px;">Dr. S. Ramachandran (ramuigib@gmail.com)</div>', unsafe_allow_html=True)
-        st.markdown('<div style="text-align: center;font-size: 12px;">Surabhi Seth(surabhismo@gmail.com)</div>', unsafe_allow_html=True
+        st.markdown('<div style="text-align: center;font-size: 12px;">Surabhi Seth(surabhismo@gmail.com)</div>', unsafe_allow_html=True)
  
 if __name__ == "__main__":
     main()
