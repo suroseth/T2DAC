@@ -1,4 +1,4 @@
-﻿Gene,Gene Name,Tissue,Study type,Direction of regulation,Fold change ,Samples,PMID,Cancer Type
+﻿Gene,Gene Name,Tissue,Study type,Direction of regulation,measure/significance ,Samples,PMID,Cancer Type
 ALDH1A1,aldehyde dehydrogenase 1 family member A1,Endometrium,MALDI TOF,down,−1.91,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
 ANXA5,annexin A5,Endometrium,MALDI TOF,up,2.81,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
 CALR,calreticulin,Endometrium,MALDI TOF,up,2.24,"7 T2DM-EC, 7 EC",35454982,Endometrial cancer
@@ -83,3 +83,4 @@ SOD2,superoxide dismutase 2,pancreas,Immunohistochemistry(clinical sample and in
 TXNIP,Thioredoxin Interacting Protein,pancreas,Immunohistochemistry(clinical sample),Up,na,,24720336,Pancreatic cancer
 PTRH1,Peptidyl-TRNA Hydrolase 1 Homolog ,pancreas,RT-PCR,down,p value = 0.064,7,37434177,Pancreatic cancer
 CTNNB1,Catenin Beta 1,pancreas,immunohistochemistry,up,P < 0.001,65,37246239,Pancreatic cancer
+
