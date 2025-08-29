@@ -489,6 +489,7 @@ def main():
         #st.header("Surabhi Seth (surabhismo@gmail.com)")
         st.markdown('<div style="text-align: center;font-size: 20px;">Dr. S. Ramachandran (ramuigib@gmail.com)</div>', unsafe_allow_html=True)
         st.markdown('<div style="text-align: center;font-size: 20px;">Surabhi Seth (surabhismo@gmail.com)</div>', unsafe_allow_html=True)
+        st.video("T2DAC_tutorial.mp4")
  
 if __name__ == "__main__":
     main()
