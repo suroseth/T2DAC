@@ -16,7 +16,7 @@ import time
 @st.cache_resource
 def load_model():
     time.sleep(5)  # simulate cold start
-    return "✅ Model ready"
+    return "CSIR-IGIB"
 
 with st.spinner("Warming up the app..."):
     model = load_model()
