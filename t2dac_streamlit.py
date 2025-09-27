@@ -11,6 +11,19 @@ from st_aggrid import AgGrid
 from st_aggrid.grid_options_builder import GridOptionsBuilder
 warnings.filterwarnings('ignore') 
 
+import time
+
+@st.cache_resource
+def load_model():
+    time.sleep(5)  # simulate cold start
+    return "✅ Model ready"
+
+with st.spinner("Warming up the app..."):
+    model = load_model()
+
+st.write(model)
+
+
 st.set_page_config(layout="wide")
 hide_menu_style = """
     <style>
